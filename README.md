@@ -2,9 +2,9 @@
 
 * include modules
 
-    - .vimrc
-    - plugins (jedi,NERDTree,ctag-navigator,empty-template)
-    - vifm (vim style file manager)
+    - vimrc
+    - plugins : jedi,NERDTree,ctag-navigator,empty-template 
+    - vifm : vim style file manager
     
         
         $./install-vim.sh
