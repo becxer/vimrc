@@ -6,9 +6,9 @@
     - plugins : jedi,NERDTree,ctag-navigator,empty-template 
     - vifm : vim style file manager
     
-        
-        $./install-vim.sh
-        
+            
+            $./install-vim.sh
+            
 
 ###vim
 
