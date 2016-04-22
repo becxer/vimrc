@@ -31,6 +31,7 @@ set fileencoding=utf-8 " set write encoding to utf-8
 set autowrite " auto write when moved cursor
 set autoread " auto read when file changed
 set noswapfile " set no create swapfile
+set backspace=indent,eol,start
 
 "edit option & indent
 set nu " set line number
@@ -40,7 +41,7 @@ set nocindent " no auto indent like c,c++,java style
 set listchars=tab:>-,trail:.,extends:>,precedes:<,eol:$ "set space,tab to char
 set list "set listchars above
 set mouse=an
-colorscheme ron " set color scheme
+colorscheme evening " set color scheme
 
 "keep 80 columns
 set colorcolumn=80
